@@ -5,6 +5,8 @@ Use this template to when conducting DTR with your project partners. *It's recom
 ### Guiding Questions to Define The Relationship:
 
 * What are each of our learning goals for this project? What drives us in this project?
+
+
 	Solidify concepts we have already been introduced to as well as practicing working as a pair on a project. Taking steps toward proficiency in writing Ruby code.  
 * What is your collaboration style? How do you feel about pair programming vs. divide-and-conquer approaches?
 * How do you communicate best? How do you appreciate receiving communication from others?
