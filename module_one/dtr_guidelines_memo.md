@@ -9,10 +9,25 @@ Use this template to when conducting DTR with your project partners. *It's recom
 
 	Solidify concepts we have already been introduced to as well as practicing working as a pair on a project. Taking steps toward proficiency in writing Ruby code.  
 * What is your collaboration style? How do you feel about pair programming vs. divide-and-conquer approaches?
+
+	Navigator/driver. Our preference at this time is to work as a pair opposed to a divide-and-conquer approach. We like the idea of having two people to work on the problems together at the same time instead of working solo and merging them at the end. 
 * How do you communicate best? How do you appreciate receiving communication from others?
+
+	Timely, relevant, and often... with compassion. 
 * How would you describe your work style?
+
+	Get personal commitments out of the way beforehand so that we can focus on our code for longer sprints at a time. 
+
 * What are each of our strengths? How can our strengths complement each other?
+
+	Nathan: I tend to be persistant about the projects I am working on. If I hit a problem it is unlikely to discourage me from continuing push forward on a project. I may need reminders to take breaks. I have high interpersonal effectiveness skills so will do well with helping to create an environment that is less likely to have tension. I also take feedback well.
+	
+	Sejin: Very similar strengths to Nathan. Also very optimistic, will see a positive output from every situation. Very playful as well so will keep things fun, hopefully not falling down the rabbit hole.
+	
+	
+	
 * What’s gone well or poorly in your previous projects?
+
 * How will we set direction and make decisions as a team?
 * How will we overcome obstacles?
 * What do you need (resources, environment, communication) to do your best work?
